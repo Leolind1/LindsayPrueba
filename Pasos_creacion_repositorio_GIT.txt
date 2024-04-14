@@ -1,0 +1,13 @@
+Instala Git: Asegúrate de tener Git instalado en tu computadora. Puedes descargarlo desde git-scm.com.
+
+Abre tu terminal: Usa la terminal (en macOS y Linux) o Git Bash (en Windows) para ejecutar comandos Git.
+
+Navega a tu directorio: Utiliza cd en la terminal para ir al directorio donde quieres crear tu repositorio.
+
+Inicializa un repositorio: Ejecuta el comando git init en la terminal para crear un nuevo repositorio Git en el directorio actual.
+
+Añade archivos: Coloca tus archivos en el directorio del repositorio. Puedes usar git add <nombre_archivo> para añadir archivos específicos o git add . para añadir todos los archivos nuevos o modificados.
+
+Confirma los cambios: Usa git commit -m "Mensaje del commit" para confirmar los cambios en tu repositorio. Asegúrate de incluir un mensaje descriptivo que explique los cambios realizados.
+
+esta informacion viene de internet y no es informacion verificada
